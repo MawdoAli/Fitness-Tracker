@@ -1,0 +1,12 @@
+
+
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover,
+:active{
+    color: lightgray;
+}
